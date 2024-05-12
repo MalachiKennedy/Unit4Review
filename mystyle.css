@@ -36,7 +36,7 @@ body{
   padding: 10px;
   height: 200px;
   border: 3px solid #363535;
-  box-shadow: 4px 1px 1px 4px #ddd;
+  box-shadow: 5px 1px 1px 4px #ddd;
   outline-offset: 1px;
   outline: grove 2px #162e64; 
   color: whitesmoke;
